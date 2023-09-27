@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2019,
+    "Color": "Blue",
+    "Price": 25000
+  },
+  {
+    "Make": "Honda",
+    "Model": "Accord",
+    "Year": 2020,
+    "Color": "Red",
+    "Price": 27000
+  },
+  {
+    "Make": "Ford",
+    "Model": "F-150",
+    "Year": 2018,
+    "Color": "Black",
+    "Price": 35000
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Malibu",
+    "Year": 2021,
+    "Color": "Silver",
+    "Price": 28000
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2019,
+    "Color": "White",
+    "Price": 26000
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "Jane Doe",
+  "age": 35,
+  "address": "456 Oak Avenue",
+  "children": [
+    {
+      "name": "Jimmy Doe",
+      "age": 10,
+      "address": "789 Maple Drive",
+      "children": [
+        {
+          "name": "Jenny Doe",
+          "age": 5,
+          "address": "101 Pine Street"
+        },
+        {
+          "name": "Jack Doe",
+          "age": 7,
+          "address": "202 Cedar Road"
+        }
+      ]
+    }
+  ]
+}
